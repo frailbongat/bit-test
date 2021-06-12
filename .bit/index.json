@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": "frailbongat.frailbongat",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "6a36a58f8cc2355199a7400f23ef4eefef02880c"
+    }
+  ],
+  "lanes": []
+}
